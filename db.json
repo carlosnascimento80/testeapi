@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "6469913bd9b9aef8562076b7"
+  },
+  "logo": "Google",
+  "cargo": "Analista de dados",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "requisitos": "Conhecimento em ferramentas de analise de dados.",
+  "formacao": "Sistemas de Informação",
+  "conhecimentos": "Orange; Power BI",
+  "regime": "PJ",
+  "jornada": "40 Horas",
+  "remuneracao": "R$ 6.000,00"
+},{
+  "_id": {
+    "$oid": "646991e3d9b9aef8562076b9"
+  },
+  "logo": "Netflix",
+  "cargo": "Estagiário",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "requisitos": "Boa comunicação; Proatividade; Inovador",
+  "formacao": "Cursando ensino superior",
+  "conhecimentos": "Softwares de edição de video e imagem",
+  "regime": "CLT",
+  "jornada": "30 Horas",
+  "remuneracao": "R$ 1.200,00"
+},{
+  "_id": {
+    "$oid": "6469c14fd9b9aef8562076bc"
+  },
+  "logo": "Apple",
+  "cargo": "Desenvolvedor",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "requisitos": "Conhecimento em linguagens de programção.",
+  "formacao": "Sistemas de Informação; Ciencias da computação",
+  "conhecimentos": "PHP; NodeJS;",
+  "regime": "PJ",
+  "jornada": "40 Horas",
+  "remuneracao": "R$ 7.000,00"
+},{
+  "_id": {
+    "$oid": "6469c1b2d9b9aef8562076be"
+  },
+  "logo": "Atacadão",
+  "cargo": "Repositor",
+  "cidade": "Presidente Prudente",
+  "estado": "SP",
+  "requisitos": "Disposição; vontade de aprender",
+  "formacao": "Ensino medio completo.",
+  "conhecimentos": "Experiencia com estoques",
+  "regime": "CLT",
+  "jornada": "40 Horas",
+  "remuneracao": "R$ 2.000,00"
+},{
+  "_id": {
+    "$oid": "6469c239d9b9aef8562076c2"
+  },
+  "logo": "Netshoes",
+  "cargo": "Vendedor",
+  "cidade": "Presidente Prudente",
+  "estado": "SP",
+  "requisitos": "Pró-atividade; Alegria; Simpatia",
+  "formacao": "Ensino médio completo",
+  "conhecimentos": "Experiencia com vendas",
+  "regime": "CLT",
+  "jornada": "40 Horas",
+  "remuneracao": "R$ 1.500,00"
+},{
+  "_id": {
+    "$oid": "6469c294d9b9aef8562076c4"
+  },
+  "logo": "Google",
+  "cargo": "Programador Junior",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "requisitos": "Conhecimento prévio em programação",
+  "formacao": "Cursando Sistemas de Informação",
+  "conhecimentos": "Node, Python, Flutter",
+  "regime": "PJ",
+  "jornada": "40 Horas",
+  "remuneracao": "R$ 3.500,00"
+}]
