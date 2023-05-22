@@ -1,14 +1,14 @@
 {
-  "capa": [{"logo": "Google","cargo": "Analista de dados","regime": "PJ","cidade": "São Paulo","estado": "SP"},
-           {"logo": "Netflix",  "cargo": "Estagiário", "regime": "CLT", "cidade": "São Paulo",  "estado": "SP"},
-           {"logo": "Apple",  "cargo": "Desenvolvedor", "regime": "PJ", "cidade": "São Paulo",  "estado": "SP"},
-           {"logo": "Atacadão",  "cargo": "Repositor",  "regime": "CLT",  "cidade": "Presidente Prudente",  "estado": "SP"},
-           {"logo": "Netshoes",  "cargo": "Vendedor",  "regime": "CLT","cidade": "Presidente Prudente",  "estado": "SP"},
-           {"logo": "Google",  "cargo": "Programador Junior",  "cidade": "São Paulo",  "estado": "SP"}],
-  "verso": [{"requisitos": "Conhecimento em ferramentas de analise de dados.", "formacao": "Sistemas de Informação", "conhecimentos": "Orange; Power BI", "jornada": "40 Horas", "remuneracao": "R$ 6.000,00"},
-           {"requisitos": "Boa comunicação; Proatividade; Inovador",  "formacao": "Cursando ensino superior",  "conhecimentos": "Softwares de edição de video e imagem",  "jornada": "30 Horas","remuneracao": "R$ 1.200,00"},
-           {"requisitos": "Conhecimento em linguagens de programção.",  "formacao": "Sistemas de Informação; Ciencias da computação",  "conhecimentos": "PHP; NodeJS;",  "jornada": "40 Horas",  "remuneracao": "R$ 7.000,00"},
-           {"requisitos": "Disposição; vontade de aprender",  "formacao": "Ensino medio completo.",  "conhecimentos": "Experiencia com estoques",  "jornada": "40 Horas",  "remuneracao": "R$ 2.000,00"},
-           {"requisitos": "Pró-atividade; Alegria; Simpatia",  "formacao": "Ensino médio completo",  "conhecimentos": "Experiencia com vendas",  "jornada": "40 Horas",  "remuneracao": "R$ 1.500,00"},
-           {  "requisitos": "Conhecimento prévio em programação",  "formacao": "Cursando Sistemas de Informação",  "conhecimentos": "Node, Python, Flutter",  "regime": "PJ",  "jornada": "40 Horas",  "remuneracao": "R$ 3.500,00"}]
+  "capa": [{"id": 0, "logo": "Google","cargo": "Analista de dados","regime": "PJ","cidade": "São Paulo","estado": "SP"},
+           {"id": 1, "logo": "Netflix",  "cargo": "Estagiário", "regime": "CLT", "cidade": "São Paulo",  "estado": "SP"},
+           {"id": 2, "logo": "Apple",  "cargo": "Desenvolvedor", "regime": "PJ", "cidade": "São Paulo",  "estado": "SP"},
+           {"id": 3, "logo": "Atacadão",  "cargo": "Repositor",  "regime": "CLT",  "cidade": "Presidente Prudente",  "estado": "SP"},
+           {"id": 4, "logo": "Netshoes",  "cargo": "Vendedor",  "regime": "CLT","cidade": "Presidente Prudente",  "estado": "SP"},
+           {"id": 5, "logo": "Google",  "cargo": "Programador Junior",  "cidade": "São Paulo",  "estado": "SP"}],
+  "verso": [{"id": 0, "requisitos": "Conhecimento em ferramentas de analise de dados.", "formacao": "Sistemas de Informação", "conhecimentos": "Orange; Power BI", "jornada": "40 Horas", "remuneracao": "R$ 6.000,00"},
+           {"id": 1, "requisitos": "Boa comunicação; Proatividade; Inovador",  "formacao": "Cursando ensino superior",  "conhecimentos": "Softwares de edição de video e imagem",  "jornada": "30 Horas","remuneracao": "R$ 1.200,00"},
+           {"id": 2, "requisitos": "Conhecimento em linguagens de programção.",  "formacao": "Sistemas de Informação; Ciencias da computação",  "conhecimentos": "PHP; NodeJS;",  "jornada": "40 Horas",  "remuneracao": "R$ 7.000,00"},
+           {"id": 3, "requisitos": "Disposição; vontade de aprender",  "formacao": "Ensino medio completo.",  "conhecimentos": "Experiencia com estoques",  "jornada": "40 Horas",  "remuneracao": "R$ 2.000,00"},
+           {"id": 4, "requisitos": "Pró-atividade; Alegria; Simpatia",  "formacao": "Ensino médio completo",  "conhecimentos": "Experiencia com vendas",  "jornada": "40 Horas",  "remuneracao": "R$ 1.500,00"},
+           { "id": 5, "requisitos": "Conhecimento prévio em programação",  "formacao": "Cursando Sistemas de Informação",  "conhecimentos": "Node, Python, Flutter",  "regime": "PJ",  "jornada": "40 Horas",  "remuneracao": "R$ 3.500,00"}]
 }
