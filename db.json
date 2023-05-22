@@ -4,7 +4,7 @@
            {"id": 2, "logo": "Apple",  "cargo": "Desenvolvedor", "regime": "PJ", "cidade": "São Paulo",  "estado": "SP"},
            {"id": 3, "logo": "Atacadão",  "cargo": "Repositor",  "regime": "CLT",  "cidade": "Presidente Prudente",  "estado": "SP"},
            {"id": 4, "logo": "Netshoes",  "cargo": "Vendedor",  "regime": "CLT","cidade": "Presidente Prudente",  "estado": "SP"},
-           {"id": 5, "logo": "Google",  "cargo": "Programador Junior",  "cidade": "São Paulo",  "estado": "SP"}],
+           {"id": 5, "logo": "Google",  "cargo": "Programador Junior",  "cidade": "São Paulo",  "estado": "SP"},
             {"id": 6, "logo": "Vcom",  "cargo": "Programador Junior",  "cidade": "Presidente Prudente",  "estado": "SP"}],
   "verso": [{"id": 0, "requisitos": "Conhecimento em ferramentas de analise de dados.", "formacao": "Sistemas de Informação", "conhecimentos": "Orange; Power BI", "jornada": "40 Horas", "remuneracao": "R$ 6.000,00"},
            {"id": 1, "requisitos": "Boa comunicação; Proatividade; Inovador",  "formacao": "Cursando ensino superior",  "conhecimentos": "Softwares de edição de video e imagem",  "jornada": "30 Horas","remuneracao": "R$ 1.200,00"},
