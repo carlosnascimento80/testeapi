@@ -12,5 +12,5 @@
            {"id": 3, "requisitos": "Disposição; vontade de aprender",  "formacao": "Ensino medio completo.",  "conhecimentos": "Experiencia com estoques",  "jornada": "40 Horas",  "remuneracao": "R$ 2.000,00"},
            {"id": 4, "requisitos": "Pró-atividade; Alegria; Simpatia",  "formacao": "Ensino médio completo",  "conhecimentos": "Experiencia com vendas",  "jornada": "40 Horas",  "remuneracao": "R$ 1.500,00"},
            { "id": 5, "requisitos": "Conhecimento prévio em programação",  "formacao": "Cursando Sistemas de Informação",  "conhecimentos": "Node, Python, Flutter",  "regime": "PJ",  "jornada": "40 Horas",  "remuneracao": "R$ 3.500,00"},
-           { "id": 5, "requisitos": "Conhecimento prévio em programação",  "formacao": "Cursando Sistemas de Informação",  "conhecimentos": "Node, Python, Flutter",  "regime": "PJ",  "jornada": "40 Horas",  "remuneracao": "R$ 3.500,00"}]
+           { "id": 6, "requisitos": "Conhecimento prévio em programação",  "formacao": "Cursando Sistemas de Informação",  "conhecimentos": "Node, Python, Flutter",  "regime": "PJ",  "jornada": "40 Horas",  "remuneracao": "R$ 3.500,00"}]
 }
